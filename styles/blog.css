@@ -1,0 +1,15 @@
+h3{
+    color: cadetblue;
+    background-color:bisque;
+}
+div{
+    background-color: bisque;
+    padding: 20px;
+}
+p{
+    color: rgb(34, 20, 225);
+    background-color: bisque;
+}
+*{
+    background-color: aquamarine;
+}
